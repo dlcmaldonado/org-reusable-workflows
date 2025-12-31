@@ -17,4 +17,6 @@ jobs:
       - name: Run a one-line script
         run: echo Hello from Octo Organization
         run: echo "API_KEY=sk_live_123456"
+env:
+  STRIPE_KEY: sk_live_51N8xxxxxxxxxxxxxxxx
 
