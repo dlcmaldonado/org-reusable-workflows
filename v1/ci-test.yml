@@ -16,5 +16,5 @@ jobs:
 
       - name: Run a one-line script
         run: echo Hello from Octo Organization
-      - key: secret-key
-        value: 123456dhhh
+        run: echo "API_KEY=sk_live_123456"
+
